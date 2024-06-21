@@ -10,7 +10,4 @@ export default defineConfig({
         }),
         react(),
     ],
-    build: {
-        outDir: 'public'
-    }
 });
